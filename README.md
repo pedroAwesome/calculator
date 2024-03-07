@@ -22,4 +22,5 @@ fatorial = factorial
 
 porcentagem = percentage
 
-# Now you can use a much more inefficient calculator !
+(yes, this is much more inefficient when compared to an actual calculator, i just did this for practicing functions.
+.....annnnd mostly because i was bored)
